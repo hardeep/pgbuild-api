@@ -1,0 +1,3 @@
+The license can be read here:
+
+http://www.opensource.org/licenses/mit-license.php

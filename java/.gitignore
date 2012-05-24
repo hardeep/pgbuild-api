@@ -1,0 +1,11 @@
+# git ignore file
+
+# remove all eclipse / vim specific files
+.swp
+.swo
+.classpath
+.project
+.settings/*
+bin
+test/bin
+
